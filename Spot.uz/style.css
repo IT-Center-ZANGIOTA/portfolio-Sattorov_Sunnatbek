@@ -1,0 +1,55 @@
+.wrapper {
+    width: 700px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.time-hashtag {
+    display: flex;
+}
+
+.time {
+    margin: 0 2rem 0 0;
+    opacity: 0.7;
+}
+
+.time-hashtag a {
+    margin-right: 2rem;
+}
+
+.time-hashtag__link {
+    color: rgb(197, 157, 105);
+    text-decoration: none;
+}
+
+.links:hover {
+    color: red;
+}
+
+.text__link {
+    color: blue;
+    text-decoration: none;
+}
+
+.text2 {
+    margin-left: 10px;
+    background-color: rgb(221, 255, 255);
+    font-size: 20px;
+    padding: 30px;
+    border-left: blue;
+}
+
+.wrapper-text {
+    font-size: 20px;
+}
+
+.text3 {
+    color: black;
+    margin: 10px 0 10px 10px;
+    background: #E7FCFF;
+    border-left: 4px solid #A9F5FF;
+}
+
+.eye {
+    border-radius: 10px;
+}
