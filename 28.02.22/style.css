@@ -1,0 +1,53 @@
+.page {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.page .section {
+  padding: 20px;
+}
+
+.page .section1 {
+  background-color: yellowgreen;
+  font-size: 10px;
+}
+
+.page .section2 {
+  background-color: #ff0077;
+}
+
+.page .section5 {
+  background-color: orange;
+}
+
+.page .section5 li {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: blue;
+}
+
+.page .section3 {
+  background-color: pink;
+}
+
+.page .section3 ul {
+  border: 5px solid red;
+  border-radius: 10px;
+}
+
+.page .section4 {
+  background-color: purple;
+}
+
+.page .section4 ul {
+  border: 5px solid green;
+  border-radius: 10px;
+}
+
+.page .fonlitext {
+  margin-left: 5px;
+  background-color: #8affff;
+  font-size: 20px;
+  padding: 10px;
+  border-left: 3px solid #00aeff;
+}
+/*# sourceMappingURL=style.css.map */

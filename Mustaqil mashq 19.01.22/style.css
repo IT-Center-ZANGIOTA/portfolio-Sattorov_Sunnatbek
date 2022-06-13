@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ECF5F0;
+}
+
+.wrapper {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.box {
+    width: 250px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 10px;
+    padding: 1rem;
+}
+
+.box-title {
+    font-size: 30px;
+    margin: 20px 0;
+}
+
+.box-t {
+    margin-bottom: 10px;
+}
+
+.chiziqcha {
+    color: rgb(74, 221, 29);
+}
+
+.chiziq {
+    color: rgba(75, 179, 44, 0.384);
+}
+
+.shartlar {
+    display: flex;
+}
+
+.shart {
+    margin-left: 5rem 0;
+    margin-right: 50px;
+    margin-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.shart-time {
+    margin: 0;
+}
+
+.shart-duration {
+    margin: 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.price b {
+    font-size: 30px;
+    margin: 0;
+}

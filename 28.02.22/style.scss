@@ -1,0 +1,42 @@
+.page {
+    width: 1200px;
+    margin: 0 auto;
+    .section {
+        padding: 20px;
+    }
+    .section1 {
+        background-color: yellowgreen;
+        font-size: 10px;
+    }
+    .section2 {
+        background-color: rgb(255, 0, 119);
+    }
+    .section5 {
+        background-color: orange;
+        li {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: blue;
+        }
+    }
+    .section3 {
+        background-color: pink;
+        ul {
+            border: 5px solid red;
+            border-radius: 10px;
+        }
+    }
+    .section4 {
+        background-color: purple;
+        ul {
+            border: 5px solid green;
+            border-radius: 10px;
+        }
+    }
+    .fonlitext {
+        margin-left: 5px;
+        background-color: rgb(138, 255, 255);
+        font-size: 20px;
+        padding: 10px;
+        border-left: 3px solid rgb(0, 174, 255);
+    }
+}

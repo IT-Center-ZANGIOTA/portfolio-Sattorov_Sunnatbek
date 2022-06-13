@@ -1,0 +1,611 @@
+.wrapper {
+    background-color: #FFFFFF;
+}
+
+.wrapper .box {
+    position: absolute;
+    width: 440px;
+    height: 728px;
+    left: 400px;
+    top: 80px;
+    background-color: rgba(0, 91, 193, 0.6);
+}
+
+.wrapper .box .text {
+    position: absolute;
+    width: 490px;
+    height: 240px;
+    left: 150px;
+    top: 282px;
+    color: #FFFFFF;
+}
+
+.wrapper .box .text2 {
+    position: absolute;
+    width: 475px;
+    height: 240px;
+    left: 150px;
+    top: 400px;
+    color: #FFFFFF;
+}
+
+.wrapper .box .box2 {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    left: 150px;
+    top: 480px;
+    color: #FFFFFF;
+    border: 2px solid #FFFFFF;
+}
+
+.wrapper .box .text3 {
+    position: absolute;
+    left: 15px;
+}
+
+.wrapper .line1 {
+    position: absolute;
+    width: 475px;
+    height: 240px;
+    left: 400px;
+    top: 850px;
+    color: blue;
+}
+
+.wrapper .line2 {
+    position: absolute;
+    width: 475px;
+    height: 240px;
+    left: 440px;
+    top: 840px;
+    color: blue;
+}
+
+.wrapper .text4 {
+    position: absolute;
+    width: 475px;
+    height: 240px;
+    left: 480px;
+    top: 860px;
+    color: #000000;
+}
+
+.wrapper .box1 {
+    position: absolute;
+    width: 38px;
+    height: 30px;
+    left: 1121px;
+    top: 860px;
+    border: 2px solid blue;
+}
+
+.wrapper .line3 {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    left: 12px;
+    top: -9px;
+    color: blue;
+}
+
+.wrapper .box3 {
+    position: absolute;
+    width: 38px;
+    height: 30px;
+    left: 1162px;
+    top: 860px;
+    border: 2px solid blue;
+}
+
+.wrapper .line4 {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    left: 16px;
+    top: -9px;
+    color: blue;
+}
+
+.wrapper .img {
+    position: absolute;
+    width: 360px;
+    height: 260px;
+    left: 400px;
+    top: 910px;
+    border: 3px solid #5709b1;
+}
+
+.wrapper .box4 {
+    position: absolute;
+    width: 180px;
+    height: 110px;
+    left: 550px;
+    top: 1040px;
+    background-color: white;
+}
+
+.wrapper p {
+    color: #666666;
+}
+
+.wrapper .img2 {
+    position: absolute;
+    width: 360px;
+    height: 260px;
+    left: 840px;
+    top: 910px;
+    border: 3px solid blue;
+}
+
+.wrapper .box5 {
+    position: absolute;
+    width: 180px;
+    height: 110px;
+    left: 1000px;
+    top: 1040px;
+    background-color: white;
+}
+
+.wrapper .chiziq {
+    position: absolute;
+    width: 475px;
+    height: 230px;
+    left: 400px;
+    top: 1300px;
+    color: blue;
+}
+
+.wrapper .chiziq1 {
+    position: absolute;
+    width: 475px;
+    height: 240px;
+    left: 440px;
+    top: 1310px;
+    color: blue;
+}
+
+.wrapper .text5 {
+    position: absolute;
+    width: 475px;
+    height: 240px;
+    left: 480px;
+    top: 1312px;
+    color: #000000;
+}
+
+.wrapper .soz {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 675px;
+    top: 1415px;
+    color: blue;
+}
+
+.wrapper .soz1 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 800px;
+    top: 1415px;
+    color: #000000;
+}
+
+.wrapper .chiziq2 {
+    position: absolute;
+    width: 475px;
+    height: 240px;
+    left: 672px;
+    top: 1440px;
+    color: blue;
+}
+
+.wrapper .img4 {
+    position: absolute;
+    width: 280px;
+    height: 210px;
+    left: 400px;
+    top: 1480px;
+    border: 2px solid blue;
+}
+
+.wrapper .box6 {
+    position: absolute;
+    width: 205px;
+    height: 72px;
+    left: 45px;
+    top: 370px;
+    background-color: #345ee9;
+}
+
+.wrapper .p2 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 10px;
+    top: 10px;
+    color: #FFFFFF;
+}
+
+.wrapper .p3 {
+    position: absolute;
+    top: 30px;
+    left: 10px;
+    color: #FFFFFF;
+}
+
+.wrapper .img4 {
+    position: absolute;
+    width: 260px;
+    height: 210px;
+    left: 745px;
+    top: 1480px;
+    border: 2px solid blue;
+}
+
+.wrapper .box7 {
+    position: absolute;
+    width: 205px;
+    height: 72px;
+    left: 330px;
+    top: 370px;
+    background-color: #345ee9;
+}
+
+.wrapper .p4 {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    color: #FFFFFF;
+}
+
+.katalog {
+    background-color: #ffffff;
+}
+
+.katalog .bbox {
+    position: absolute;
+    width: 815px;
+    height: 450px;
+    left: 395px;
+    top: 1300px;
+    border: 2px solid #FFFFFF;
+}
+
+.katalog .bbox .img4 {
+    width: 260px;
+    height: 210px;
+    left: 566px;
+    top: 293px;
+    border: 2px solid blue;
+}
+
+.katalog .bbox .box8 {
+    position: absolute;
+    width: 205px;
+    height: 72px;
+    left: 610px;
+    top: 370px;
+    background-color: #345ee9;
+}
+
+.katalog .bbox .p5 {
+    position: absolute;
+    width: 0;
+    height: 0;
+    left: 0;
+    top: 25px;
+    left: 20px;
+    color: #FFFFFF;
+}
+
+.katalog .bbox .rasmlar {
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.katalog .bbox .rasmlar .tovar {
+    position: absolute;
+    width: 250px;
+    height: 200px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    top: 250px;
+    left: 0px;
+}
+
+.katalog .bbox .rasmlar .tovar1 {
+    position: absolute;
+    width: 250px;
+    height: 200px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    top: 250px;
+    left: 285px;
+}
+
+.katalog .bbox .rasmlar .tovar2 {
+    position: absolute;
+    width: 250px;
+    height: 200px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    top: 250px;
+    left: 568px;
+}
+
+.katalog1 {
+    background-color: #FFFFFF;
+}
+
+.katalog1 .bb {
+    position: absolute;
+    width: 475px;
+    height: 230px;
+    left: 400px;
+    top: 1900px;
+    color: blue;
+}
+
+.katalog1 .bb1 {
+    position: absolute;
+    width: 475px;
+    height: 240px;
+    left: 440px;
+    top: 1910px;
+    color: blue;
+}
+
+.katalog1 .bb2 {
+    position: absolute;
+    width: 475px;
+    height: 240px;
+    left: 480px;
+    top: 1912px;
+    color: #000000;
+}
+
+.katalog1 .di {
+    position: absolute;
+    width: 480px;
+    height: 280px;
+    left: 740px;
+    top: 1965px;
+    border: 3px solid #005BC1;
+}
+
+.katalog1 .di .bb3 {
+    position: absolute;
+    width: 441px;
+    height: 27px;
+    left: 50px;
+    top: 20px;
+    font-size: 18px;
+}
+
+.katalog1 .di .box11 {
+    position: absolute;
+    width: 38px;
+    height: 30px;
+    left: 300px;
+    top: 25px;
+    border: 2px solid blue;
+}
+
+.katalog1 .di .box11 .line5 {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    left: 15px;
+    top: -13px;
+    color: blue;
+}
+
+.katalog1 .di .box12 {
+    position: absolute;
+    width: 38px;
+    height: 30px;
+    left: 340px;
+    top: 25px;
+    border: 2px solid blue;
+}
+
+.katalog1 .di .box12 .line6 {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    left: 15px;
+    top: -13px;
+    color: blue;
+}
+
+.katalog1 .di .tq {
+    position: absolute;
+    width: 238px;
+    height: 157px;
+    left: 188px;
+    top: 71px;
+    border: 2px solid white;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 19px;
+}
+
+.katalog1 .tovar3 {
+    position: absolute;
+    width: 235px;
+    height: 230px;
+    left: 3px;
+    top: 40px;
+}
+
+.katalog1 .box99 {
+    position: absolute;
+    width: 300px;
+    height: 225px;
+    left: 400px;
+    top: 2000px;
+    border: 2px solid white;
+}
+
+.katalog1 .box99 .m {
+    position: absolute;
+    width: 250px;
+    height: 60px;
+    left: 1px;
+    top: -50px;
+    /* p.text */
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 25px;
+    /* black */
+    color: #343434;
+}
+
+.katalog2 {
+    background-color: #FFFFFF;
+}
+
+.katalog2 .bb4 {
+    position: absolute;
+    width: 475px;
+    height: 230px;
+    left: 400px;
+    top: 2400px;
+    color: blue;
+}
+
+.katalog2 .bb5 {
+    position: absolute;
+    width: 475px;
+    height: 240px;
+    left: 440px;
+    top: 2410px;
+    color: blue;
+}
+
+.katalog2 .bb6 {
+    position: absolute;
+    width: 475px;
+    height: 240px;
+    left: 482px;
+    top: 2412px;
+    color: #000000;
+}
+
+.katalog2 .box13 {
+    position: absolute;
+    width: 130px;
+    height: 32px;
+    left: 1100px;
+    top: 2410px;
+    background-color: #005BC1;
+}
+
+.katalog2 .box13 .a1 {
+    position: absolute;
+    width: 114px;
+    height: 100px;
+    left: 10px;
+    top: 6px;
+    color: #ffffff;
+}
+
+.katalog2 .div {
+    position: absolute;
+    width: 440px;
+    height: 220px;
+    left: 400px;
+    top: 2470px;
+    border: 2px solid white;
+}
+
+.katalog2 .div .a2 {
+    position: absolute;
+    width: 123px;
+    height: 27px;
+    font-size: 19px;
+    left: 235px;
+    top: 10px;
+}
+
+.katalog2 .div .a3 {
+    position: absolute;
+    width: 15px;
+    font-size: 15px;
+    left: 142px;
+    top: 6px;
+}
+
+.katalog2 .div .a4 {
+    position: absolute;
+    height: 40px;
+    left: -133px;
+    top: 37px;
+}
+
+.katalog2 .tovar4 {
+    position: absolute;
+    width: 235px;
+    height: 220px;
+    left: 402px;
+    top: 2471px;
+}
+
+.katalog2 .div2 {
+    position: absolute;
+    width: 225px;
+    height: 220px;
+    top: 2470px;
+    left: 850px;
+    border: 2px solid white;
+}
+
+.katalog2 .div3 {
+    position: absolute;
+    width: 225px;
+    height: 242px;
+    top: 2470px;
+    left: 1050px;
+    border: 2px solid white;
+}
+
+.katalog2 .bboxx {
+    position: absolute;
+    width: 1920px;
+    height: 73px;
+    top: 7px;
+    background-color: rgba(0, 91, 193, 0.6);
+}
+
+
+/*# sourceMappingURL=style.css.map */

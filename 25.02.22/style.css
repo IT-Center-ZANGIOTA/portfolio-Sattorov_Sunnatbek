@@ -1,0 +1,7 @@
+form {
+    width: 240px;
+    margin: 0 auto;
+    padding: 1rem;
+    border: 3px solid rgb(0, 0, 0);
+    background-image: linear-gradient(90deg, rgb(151, 151, 151), rgb(255, 255, 255), rgb(151, 151, 151));
+}

@@ -1,0 +1,125 @@
+body {
+    background-color: rgb(206, 189, 189);
+}
+
+.box {
+    display: flex;
+}
+
+.box-text {
+    width: 500px;
+    padding: 1rem;
+}
+
+.tugma {
+    background-color: rgb(91, 92, 90);
+    color: #fff;
+    border-radius: 1rem;
+    height: 1.5rem;
+    width: 6rem;
+}
+
+.box-media {
+    width: 500px;
+    height: 500px;
+    position: relative;
+}
+
+.aylana1 {
+    width: 24rem;
+    height: 24rem;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    position: absolute;
+    top: 2rem;
+}
+
+.aylana2 {
+    width: 18rem;
+    height: 18rem;
+    border-radius: 50%;
+    background-color: rgb(103, 105, 103);
+    position: absolute;
+    top: 5.1rem;
+    left: 3rem;
+}
+
+.aylana3 {
+    width: 12rem;
+    height: 12rem;
+    border-radius: 50%;
+    background-color: #f2f2f2;
+    position: absolute;
+    top: 130px;
+    left: 100px;
+}
+
+.foto1 {
+    position: absolute;
+    width: 100px;
+    left: 10px;
+    top: 312px;
+    bottom: 94px;
+}
+
+.foto2 {
+    position: absolute;
+    width: 100px;
+    left: 280px;
+    top: 350px;
+    bottom: 50px;
+}
+
+.foto3 {
+    position: absolute;
+    width: 100px;
+    left: 150px;
+    top: 290px;
+    bottom: 116px;
+}
+
+.foto4 {
+    position: absolute;
+    width: 100px;
+    left: 330px;
+    top: 100px;
+    bottom: 308px;
+}
+
+.foto5 {
+    position: absolute;
+    width: 100px;
+    left: 280px;
+    top: 200px;
+    bottom: 204px;
+}
+
+.foto6 {
+    position: absolute;
+    width: 100px;
+    left: 50px;
+    top: 100px;
+    bottom: 307px;
+}
+
+.foto7 {
+    position: absolute;
+    width: 100px;
+    left: 100px;
+    top: 10px;
+    bottom: 392px;
+}
+
+.foto8 {
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    left: 230px;
+    top: 10px;
+    bottom: 150px;
+}
+
+.rasm {
+    border-radius: 50%;
+    border: 2px solid #f2f2f2;
+}
