@@ -1,13 +1,13 @@
 .wrapper {
     width: 1600px;
     height: 900px;
-    border: 2px solid rgb(0, 0, 0);
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
     .box {
         width: 300px;
-        height: 420px;
+        margin-bottom: 1rem;
+        padding: 1rem;
         border-radius: 10px;
         background-color: aqua;
         .circule {
@@ -15,15 +15,15 @@
             height: 200px;
             border-radius: 50%;
             margin: 10 auto;
-            border: 2px solid black;
             overflow: hidden;
         }
     }
     .price2 {
         display: flex;
         justify-content: space-between;
+        padding: 10px;
         .btn {
-            position: absolute;
+            // position: absolute;
             margin-bottom: 15px;
             margin-left: 25px;
             background-color: rgb(5, 127, 136);
