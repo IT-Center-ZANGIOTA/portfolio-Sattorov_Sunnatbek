@@ -23,7 +23,9 @@
         display: flex;
         justify-content: space-between;
         .btn {
-            margin-left: 5px;
+            position: absolute;
+            margin-bottom: 15px;
+            margin-left: 25px;
             background-color: rgb(5, 127, 136);
             border-radius: 5px;
         }
